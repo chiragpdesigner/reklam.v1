@@ -1,0 +1,49 @@
+:root {
+    --bs-btn-bg: 248, 95, 104;
+}
+
+/* Common */
+body {
+    font-family: 'Manrope', sans-serif;
+}
+
+/* Main */
+main {
+    min-height: calc(100vh - 100px);
+}
+
+/* HEADER */
+header {
+    background: #fafafa;
+}
+.homepage-header {
+    background: #fafafa;
+}
+.h-form {
+    
+}
+
+/* FOOTER */
+footer {
+    background: #151212;
+    color: #fff;
+}
+.f-links a {
+    display: inline-block;
+    color: #fff;
+    text-decoration: none;
+}
+.f-links span {
+    padding: 0 1rem;
+    display: inline-block;
+}
+.f-top {
+    padding: 3rem 0;
+    border-bottom: 1px solid #2d2a2a;
+}
+.f-middle {
+    padding: 5rem 0;
+}
+.f-bottom {
+    padding: 2rem 0;
+}
